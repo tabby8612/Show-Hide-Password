@@ -4,4 +4,4 @@ This is simple tutorial in which we are going to implement show and hide passwor
 
 Here's the screenshot:
 
-[Screenshot](Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
